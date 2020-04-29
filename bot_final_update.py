@@ -7,6 +7,9 @@ Created on Thu Mar 26 20:45:30 2020
 
 # -*- coding: utf-8 -*-
 """
+Created on Thu Mar 26 20:37:20 2020
+
+@author: Samson
 @editor: Chaitanya Vankadaru
 """
 #import pygame
