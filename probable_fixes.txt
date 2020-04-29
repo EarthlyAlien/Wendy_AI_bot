@@ -1,0 +1,9 @@
+PyAudio has to be installed from wheel to avoid version dependency errors.
+
+You can find the wheels here: 
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pyaudio
+
+And since, newscatcher package only works for Python 3.7 and above, the minimal requirement to run this program is to have Python 3.7 or above versions installed.
+
+Chromedriver.exe is also version specific which depends on current chrome version you are using for browser automation.
+Find it here: https://chromedriver.chromium.org/downloads

@@ -29,6 +29,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By 
 import time, os 
 from newscatcher import Newscatcher
+os.add_dll_directory(r'C:\Program Files\VideoLAN\VLC')
 import vlc
 import struct
 import ctypes
